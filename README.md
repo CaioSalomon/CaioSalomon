@@ -3,8 +3,8 @@
 -  Treinee da Empresa Júnior de Engenharia da Computação da UFBA - <a href="https://titanci.com.br">TITAN</a>
 <div align="center">
   <a href="https://github.com/CaioSalomon">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioSalomon&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSalomon&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" width="400"src="https://github-readme-stats.vercel.app/api?username=CaioSalomon&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSalomon&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 <div style="display: inline_block"><br>
