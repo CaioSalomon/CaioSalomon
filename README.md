@@ -21,7 +21,7 @@
 </div>
 
 <hr>
-
+<div align="center"> 
 <table width = 100%>
   <tr>
     <td>
@@ -40,6 +40,7 @@
      <img height=40px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> <img height=40px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td>
   </tr>
 </table>
+</div>
 
 <hr/>
 
