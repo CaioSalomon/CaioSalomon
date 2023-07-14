@@ -6,7 +6,7 @@
 <table>
 <tr valign="top"  >
  <div align="center"> 
- <h2> Me chamo Caio Salomão </h2>
+ <h2> Me chamo <strong>Caio Salomão</strong> </h2>
 <td height=100%>
 <div align="center"> 
 
