@@ -44,7 +44,6 @@
 
 <hr/>
 
-![Snake animation](https://github.com/CaioSalomon/CaioSalomon/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
@@ -52,7 +51,7 @@
 <td valign="top" width=50%>
 
 <div align="center"> 
-<img  height=160em  src="https://github.com/CaioSalomon/CaioSalomon/assets/72764084/bf743bbf-a22f-412e-ab17-531d2a65e92f"/>
+
 </div>
   <div>
 <img width="100%"  src="https://github-readme-stats.vercel.app/api?username=CaioSalomon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
